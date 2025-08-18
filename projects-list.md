@@ -1,4 +1,4 @@
-# Projects 2023-2025
+# Projects 2025
 
 ### Table of Contents
 
