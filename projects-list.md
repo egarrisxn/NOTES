@@ -1,6 +1,6 @@
-# Projects 2025
+# Projects List
 
-### Table of Contents
+### Table of Content
 
 1. [Egxo.dev](#egxodev)
 2. [Patricia Penisten](#patricia-penisten)
@@ -22,7 +22,7 @@
 18. [Sway Bae Official](#sway-bae-official)
 19. [Websanity Builder](#websanity-builder)
 20. [Egxworld v1](#egxworld-v1)
-21. [Egxo.fyi](#egxofy)
+21. [Egxo.fyi](#egxofyi)
 22. [Devbuild Resume](#devbuild-resume)
 23. [Mississippi Paint](#mississippi-paint)
 24. [XOStarter](#xostarter)
@@ -54,7 +54,7 @@
 
 ---
 
-### patricia-penisten.com
+### Patricia Penisten
 
 - **TypeScript** - Statically typed superset of JavaScript
 - **JavaScript** - High-Level programming language for building the web
